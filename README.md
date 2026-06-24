@@ -21,7 +21,9 @@ Departure process of the $M^k/G/\infty$ batch-arrival queue with heterogeneous d
 ### Tech stack
 
 **Languages:** Python (NumPy, SciPy, pandas, matplotlib, pytest) · C++ · SQL (basic) · LaTeX
+
 **Math:** probability theory · stochastic processes · actuarial mathematics · queueing theory · statistics
+
 **Tools:** Git · Jupyter · Linux
 
 ---
