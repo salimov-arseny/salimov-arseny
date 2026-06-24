@@ -10,10 +10,10 @@
 
 ### Featured projects
 
-**[risk-measures](https://github.com/salimov-arseny/risk-measures)** &nbsp;·&nbsp; Python, SciPy, pytest, LaTeX
+**[risk-measures](https://github.com/salimov-arseny/risk-measures)** &nbsp;·&nbsp;
 Numerical study of the **PELVE** coefficient (Probability Equivalent Level of VaR and ES) for 7 distributions used in actuarial mathematics. Closed-form and asymptotic results, full test coverage. Course paper, 2025.
 
-**[queueing-mk-g-inf](https://github.com/salimov-arseny/queueing-mk-g-inf)** &nbsp;·&nbsp; Python, NumPy, pytest, LaTeX
+**[queueing-mk-g-inf](https://github.com/salimov-arseny/queueing-mk-g-inf)** &nbsp;·&nbsp;
 Departure process of the $M^k/G/\infty$ batch-arrival queue with heterogeneous dependent demands. Proves an asymptotic correlation-conservation law $\rho_{12}(t) \to 1$ via probabilistic decomposition. Course paper, 2026. **Talk based on this work was awarded at a student conference.**
 
 ---
